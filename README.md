@@ -1,6 +1,6 @@
 # This is a sample book containing index enties
 
-In Markua 0.30, you can add index entries too books.
+In Markua 0.30, you can add index entries to books.
 
 When you add an index entry directive to your manuscript, it will be added to an "Index" section at the end of the book, whenever you generate your book.
 
