@@ -6,9 +6,9 @@ When you add an index entry directive to your manuscript, the index entry will b
 
 The simplest index entry directive looks like this: `{i: "Ishmael"}`. You would add it to a line in the manuscript like this: `Call me Ishmael{i: "Ishmael"}."` 
 
-In this sample book manuscript, you will find an instance of each different index entry directive.
+In this sample book manuscript, you will find an instance of each different index entry directive in the `chapter1.txt` file in the `manuscript` folder.
 
-The section in the Markua spec setting out how index entries work in detail can be found here: [http://markua.com/#index-entries-m-](http://markua.com/#index-entries-m-).
+The section in the Markua specification setting out how index entries work in detail can be found here: [http://markua.com/#index-entries-m-](http://markua.com/#index-entries-m-).
 
 Finally, [here is a link to the Markua manual,](https://leanpub.com/markua/read) which shows you everything you can do when you write a book in plain text on Leanpub.
 
