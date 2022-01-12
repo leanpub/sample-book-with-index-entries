@@ -1,18 +1,14 @@
-# This is the default new book content for writing a Leanpub book in plain text!
+# This is a sample book containing index enties
 
-This repository contains some default content that can be added to a new Leanpub book so you can make your first book preview.
+In Markua 0.30, you can add index entries too books.
 
-Just click "Use this template" on GitHub to create a new repo of your own, with everything set up just like it is here.
+When you add an index entry directive to your manuscript, it will be added to an "Index" section at the end of the book, whenever you generate your book.
 
-At the top level of the repo will be a "manuscript" folder.
+The simplest index entry directive looks like this: `{i: "Ishmael"}`. You would add it to a line in the manuscript like this: `Call me Ishmael{i: "Ishmael"}."` 
 
-In the "manuscript" folder, you will see a file called "Book.txt". The files listed in the "Book.txt" file are the ones that will be used to generate your book.
+In this sample book manuscript, you will find an instance of each different index entry directive.
 
-In this default content repo, the two files listed in "Book.txt" are the "chapter1.txt" and "chapter2.txt" files currently in the "manuscript" folder.
-
-Also in the "manuscript" folder, you will see a "resources" folder. Images and other resources are to be placed in this folder.
-
-If you're looking for a tutorial, please select the Getting Started walkthrough for your chosen book writing mode [here](http://help.leanpub.com/en/articles/3088382-quick-walkthroughs-for-getting-started-on-a-leanpub-book) in our [Help Center](http://help.leanpub.com/en), which has hundreds of useful articles for Leanpub authors.
+The section in the Markua spec setting out how index entries work in detail can be found here: [http://markua.com/#index-entries-m-](http://markua.com/#index-entries-m-).
 
 Finally, [here is a link to the Markua manual,](https://leanpub.com/markua/read) which shows you everything you can do when you write a book in plain text on Leanpub.
 
