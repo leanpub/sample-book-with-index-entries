@@ -2,7 +2,7 @@
 
 In Markua 0.30, you can add index entries to books.
 
-When you add an index entry directive to your manuscript, it will be added to an "Index" section at the end of the book, whenever you generate your book.
+When you add an index entry directive to your manuscript, the index entry will be added to an "Index" section at the end of the book, whenever you generate your book.
 
 The simplest index entry directive looks like this: `{i: "Ishmael"}`. You would add it to a line in the manuscript like this: `Call me Ishmael{i: "Ishmael"}."` 
 
